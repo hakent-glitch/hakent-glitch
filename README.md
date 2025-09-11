@@ -35,28 +35,12 @@
 
 
 
-
 </p>
 
----
-
-<h3 align="left">play game with me</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ---
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 800 150">
   <rect width="100%" height="100%" fill="black"/>
   <text x="50%" y="50%" text-anchor="middle" fill="none" stroke="#25F4EE" stroke-width="2" font-size="40" font-family="Arial Black, sans-serif" dy=".3em">
