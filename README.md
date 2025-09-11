@@ -43,10 +43,15 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 800 150">
   <rect width="100%" height="100%" fill="black"/>
-  <text x="50%" y="50%" text-anchor="middle" fill="none" stroke="#25F4EE" stroke-width="2" font-size="40" font-family="Arial Black, sans-serif" dy=".3em">
+  <text x="50%" y="50%" text-anchor="middle" fill="none" stroke="#25F4EE"
+        stroke-width="2" font-size="40" font-family="Arial Black, sans-serif" dy=".3em"
+        stroke-dasharray="500" stroke-dashoffset="500">
     <tspan>Thanks for Watching</tspan>
-    <animate attributeName="stroke-dasharray" from="0,500" to="500,0" dur="5s" repeatCount="indefinite"/>
+    <!-- Efek teks muncul seperti sedang ditulis -->
+    <animate attributeName="stroke-dashoffset" from="500" to="0" dur="5s" repeatCount="indefinite"/>
+    <!-- Efek warna berganti -->
     <animate attributeName="stroke" values="#25F4EE;#FE2C55;#25F4EE" dur="4s" repeatCount="indefinite"/>
   </text>
 </svg>
+
 
