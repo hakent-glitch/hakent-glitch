@@ -18,41 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ---
 
-<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background Pixel Grid -->
-  <defs>
-    <pattern id="pixelGrid" width="10" height="10" patternUnits="userSpaceOnUse">
-      <rect width="10" height="10" fill="#111"/>
-      <rect width="1" height="1" fill="#222"/>
-    </pattern>
-  </defs>
-  <rect width="400" height="100" fill="url(#pixelGrid)"/>
-
-  <!-- Pixel Hero -->
-  <rect x="10" y="40" width="10" height="10" fill="#ff0">
-    <animate attributeName="x" values="10;350;10" dur="4s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="20" y="40" width="10" height="10" fill="#ff0">
-    <animate attributeName="x" values="20;360;20" dur="4s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Pixel Coins -->
-  <rect x="100" y="50" width="5" height="5" fill="#fff">
-    <animate attributeName="y" values="50;70;50" dur="2s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="150" y="30" width="5" height="5" fill="#fff">
-    <animate attributeName="y" values="30;60;30" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="200" y="60" width="5" height="5" fill="#fff">
-    <animate attributeName="y" values="60;40;60" dur="2.5s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
-
----
 
 ### 🌐 Connect with Me  
 <p align="center">
@@ -73,11 +40,21 @@
 
 ---
 
+<h3 align="left">play game with me</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hakent-glitch/hakent-glitch/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ---
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 800 150">
